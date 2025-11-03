@@ -1,0 +1,14 @@
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\bin\Debug\net8.0\ApresentacaoAula1.exe
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\bin\Debug\net8.0\ApresentacaoAula1.deps.json
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\bin\Debug\net8.0\ApresentacaoAula1.runtimeconfig.json
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\bin\Debug\net8.0\ApresentacaoAula1.dll
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\bin\Debug\net8.0\ApresentacaoAula1.pdb
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\obj\Debug\net8.0\ApresentacaoAula1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\obj\Debug\net8.0\ApresentacaoAula1.AssemblyInfoInputs.cache
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\obj\Debug\net8.0\ApresentacaoAula1.AssemblyInfo.cs
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\obj\Debug\net8.0\ApresentacaoAula1.csproj.CoreCompileInputs.cache
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\obj\Debug\net8.0\ApresentacaoAula1.dll
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\obj\Debug\net8.0\refint\ApresentacaoAula1.dll
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\obj\Debug\net8.0\ApresentacaoAula1.pdb
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\obj\Debug\net8.0\ApresentacaoAula1.genruntimeconfig.cache
+C:\Users\rafael.csvasousa\source\repos\ApresentacaoAula1\obj\Debug\net8.0\ref\ApresentacaoAula1.dll

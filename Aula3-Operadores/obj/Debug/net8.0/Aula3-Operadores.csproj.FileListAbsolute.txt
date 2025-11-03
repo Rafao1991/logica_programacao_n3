@@ -1,0 +1,14 @@
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\bin\Debug\net8.0\Aula3-Operadores.exe
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\bin\Debug\net8.0\Aula3-Operadores.deps.json
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\bin\Debug\net8.0\Aula3-Operadores.runtimeconfig.json
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\bin\Debug\net8.0\Aula3-Operadores.dll
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\bin\Debug\net8.0\Aula3-Operadores.pdb
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\obj\Debug\net8.0\Aula3-Operadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\obj\Debug\net8.0\Aula3-Operadores.AssemblyInfoInputs.cache
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\obj\Debug\net8.0\Aula3-Operadores.AssemblyInfo.cs
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\obj\Debug\net8.0\Aula3-Operadores.csproj.CoreCompileInputs.cache
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\obj\Debug\net8.0\Aula3-Operadores.dll
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\obj\Debug\net8.0\refint\Aula3-Operadores.dll
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\obj\Debug\net8.0\Aula3-Operadores.pdb
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\obj\Debug\net8.0\Aula3-Operadores.genruntimeconfig.cache
+C:\Users\rafael.csvasousa\source\repos\Aula3-Operadores\obj\Debug\net8.0\ref\Aula3-Operadores.dll
