@@ -1,0 +1,14 @@
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\obj\Debug\net8.0\Aula2-Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\obj\Debug\net8.0\Aula2-Variaveis.AssemblyInfoInputs.cache
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\obj\Debug\net8.0\Aula2-Variaveis.AssemblyInfo.cs
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\obj\Debug\net8.0\Aula2-Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\bin\Debug\net8.0\Aula2-Variaveis.exe
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\bin\Debug\net8.0\Aula2-Variaveis.deps.json
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\bin\Debug\net8.0\Aula2-Variaveis.runtimeconfig.json
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\bin\Debug\net8.0\Aula2-Variaveis.dll
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\bin\Debug\net8.0\Aula2-Variaveis.pdb
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\obj\Debug\net8.0\Aula2-Variaveis.dll
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\obj\Debug\net8.0\refint\Aula2-Variaveis.dll
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\obj\Debug\net8.0\Aula2-Variaveis.pdb
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\obj\Debug\net8.0\Aula2-Variaveis.genruntimeconfig.cache
+C:\Users\rafael.csvasousa\source\repos\Aula2-Variaveis\obj\Debug\net8.0\ref\Aula2-Variaveis.dll
