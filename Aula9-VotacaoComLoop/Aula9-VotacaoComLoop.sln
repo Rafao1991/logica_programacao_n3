@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula9-VotacaoComLoop", "Aula9-VotacaoComLoop.csproj", "{092E6C10-4F5C-4854-9A37-0AD863C1532E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{092E6C10-4F5C-4854-9A37-0AD863C1532E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092E6C10-4F5C-4854-9A37-0AD863C1532E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092E6C10-4F5C-4854-9A37-0AD863C1532E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092E6C10-4F5C-4854-9A37-0AD863C1532E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB86B671-3D6E-46D5-AD93-2D9513737F5E}
+	EndGlobalSection
+EndGlobal
